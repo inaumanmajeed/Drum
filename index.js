@@ -1,4 +1,4 @@
-// Detecting Button press on tabs
+// Detecting Button press on taps
 
 var drumButtons = document.querySelectorAll(".drum").length;
 for (var i = 0; i < drumButtons; i++){
